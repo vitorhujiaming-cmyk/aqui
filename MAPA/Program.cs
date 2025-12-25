@@ -10,6 +10,7 @@ namespace MAPA
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
