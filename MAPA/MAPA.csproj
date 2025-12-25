@@ -57,6 +57,12 @@
     <Compile Include="menu.Designer.cs">
       <DependentUpon>menu.cs</DependentUpon>
     </Compile>
+    <Compile Include="Portugal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Portugal.Designer.cs">
+      <DependentUpon>Portugal.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
